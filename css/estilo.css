@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #15f015;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 20px;
+}
+
+header nav .menu {
+  background-color: #035003;
+  list-style-type: none;
+  padding: 0;
+  width: 90%;
+  margin: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+header nav .menu li {
+  padding: 0.7rem;
+  margin: 0.7rem;
+}
+
+header nav .menu li a {
+  color: #8ed38e;
+  text-decoration: none;
+  padding: 20px;
+}
+
+header nav .menu li a:hover {
+  background-color: #035003;
+  color: #15f015;
+}
+
+.titulo {
+  text-align: center;
+  color: #1c330d;
+  font-size: 35px;
+}
+
+p {
+  width: 80%;
+  margin-left: 110px;
+}
+
+.imagen_1 {
+  margin-left: 180px;
+  width: 60%;
+}
+
+.imagen_2 {
+  margin-left: 180px;
+  width: 60%;
+}
+
+.imagen_3 {
+  margin-left: 180px;
+  width: 60%;
+}
+
+.imagen_4 {
+  margin-left: 180px;
+  width: 60%;
+}
+
+.imagen_5 {
+  margin-left: 180px;
+  width: 60%;
+}
+
+.imagen_6 {
+  margin-left: 180px;
+  width: 60%;
+}
+
+.imagen_7 {
+  margin-left: 180px;
+  width: 60%;
+}
+/*# sourceMappingURL=estilo.css.map */
